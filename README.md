@@ -19,6 +19,7 @@ Finally, the additional instruments disappear, leaving a slightly modified piano
 
 The project uses several Python programming techniques:
 
+
 **Loops:** Repeat musical patterns efficiently.
 
 **Lists:** Store note sequences and simplify repeated code.
@@ -37,4 +38,10 @@ These techniques allow the composition to develop through controlled repetition,
 
 **README.md:** Project documentation.
 
+**To run this project:**
+
+1. Download the JSON file.
+2. Open TunePad.
+3. Import the downloaded JSON file into TunePad.
+4. Play the composition.
 
