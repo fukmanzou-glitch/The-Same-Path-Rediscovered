@@ -46,7 +46,7 @@ These techniques allow the composition to develop through controlled repetition,
 
 ## References and Acknowledgements
 
-**This project was developed with support from:**
+This project was developed with support from:
 
 **Course materials and tutor feedback:** Guidance on programming techniques and code organisation.
 
