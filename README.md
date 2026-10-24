@@ -28,3 +28,13 @@ The project uses several Python programming techniques:
 **Functions and parameters:** Use playNote() and rest() to control note playback, duration, and timing.
 
 **Code comments:** Explain important coding decisions and musical intentions.
+
+These techniques allow the composition to develop through controlled repetition, layering and variation.
+
+## Project Files and How to Run
+
+**JSON file:** Exported TunePad project containing the composition.
+
+**README.md:** Project documentation.
+
+
