@@ -14,3 +14,17 @@ The composition begins with a repeating piano melody, representing the monotony 
 As additional instruments, including music box, guitar, and strings, gradually enter, the music becomes richer and builds towards a climax, representing growing awareness of small changes.
 
 Finally, the additional instruments disappear, leaving a slightly modified piano melody. This symbolises a change in perspective, even though daily routines remain familiar.
+
+## Technical Implementation
+
+The project uses several Python programming techniques:
+
+**Loops:** Repeat musical patterns efficiently.
+
+**Lists:** Store note sequences and simplify repeated code.
+
+**Variables:** Manage consistent values such as note velocity.
+
+**Functions and parameters:** Use playNote() and rest() to control note playback, duration, and timing.
+
+**Code comments:** Explain important coding decisions and musical intentions.
